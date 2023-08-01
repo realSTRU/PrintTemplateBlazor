@@ -1,0 +1,10 @@
+Factores para imprimir sin JavaScript en Blazor.
+
+Paquetes:
+System.Configuration.ConfigurationManager
+InTheHand.Net.Bluetooth
+dotnet add package InTheHand.Net --version 5.0.0
+System.Net.Sockets
+System.Devices.Bluetooth
+System.Drawing.Common
+32feet.NET

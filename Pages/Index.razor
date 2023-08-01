@@ -1,0 +1,10 @@
+﻿@page "/"
+
+<button @onclick="Imprimir">Imprimir Factura</button>
+
+@code {
+    private void Imprimir()
+    {
+        FacturaPrinter.ImprimirFactura();
+    }
+}
